@@ -1,0 +1,6 @@
+secret.key
+*.encrypted
+__pycache__/
+.venv/
+.idea/
+.vscode/
